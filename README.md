@@ -7,7 +7,7 @@ game link https://www.roblox.com/games/17100288184/XO-Game-Beta
 
 MIT License
 
-Copyright © free
+Copyright © MIT
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

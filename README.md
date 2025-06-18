@@ -1,11 +1,28 @@
 
 Made by NanoXone (R username :Suppakrid)
 game link https://www.roblox.com/games/17100288184/XO-Game-Beta
+
 -Main content is OX game
--Them are main script to run the game.Another local script,UX ,UI
+
+-Them are main script to run the game
+
 -Another backend script is not open source yet.
 
-MIT License
+-RemoteEvent required
+
+-No Matchmaking Service required
+
+-No DataStore required
+
+-No glitch and bug
+
+-Maximum players in server 2p
+
+-Best performance at low ping 
+
+
+
+MIT License required
 
 Copyright © MIT
 

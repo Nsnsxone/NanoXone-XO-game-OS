@@ -22,7 +22,7 @@ game link https://www.roblox.com/games/17100288184/XO-Game-Beta
 
 
 
-MIT License required
+MIT License
 
 Copyright © MIT
 
